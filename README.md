@@ -7,3 +7,5 @@ Persyaratan kata kata yang menjadi kandidat mnemonik:
 - hindari kata-kata yang bersifat SARA atau menyinggung satu golongan atau yang bersifat eksklusif buat golongan tertentu
 
 Contoh penerapan nyata nya, tapi dalam bahasa lain, bisa di coba di https://iancoleman.github.io/bip39/
+
+test test test
