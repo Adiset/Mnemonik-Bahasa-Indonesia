@@ -8,4 +8,4 @@ Persyaratan kata kata yang menjadi kandidat mnemonik:
 
 Contoh penerapan nyata nya, tapi dalam bahasa lain, bisa di coba di https://iancoleman.github.io/bip39/
 
-test test test
+
